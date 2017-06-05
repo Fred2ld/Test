@@ -19,7 +19,7 @@ public class TestGit {
         System.out.println("testgit.TestGit.main().Test");
         System.out.println("Commit before stash");
         
-        System.out.println("testgit.TestGit.main().Edit_from_github");
+        System.out.println("testgit.TestGit.main().Edit_from_github_2");
 
     }
     
