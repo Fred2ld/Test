@@ -20,6 +20,7 @@ public class TestGit {
         System.out.println("Commit before stash");
         
         System.out.println("testgit.TestGit.main().Edit_from_github_2");
+        System.out.println("testgit.TestGit.main().Edit_from_NetbBeans");
 
     }
     
